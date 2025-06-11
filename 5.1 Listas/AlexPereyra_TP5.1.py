@@ -1,5 +1,5 @@
-# TP 5 - Listas - UTN a distancia
-# Autor: Alex Pereyra
+# TP 5.1 - Listas - UTN a distancia
+# Alumno: Alex Pereyra
 # Comisión: 8
 
 # 1) Crear una lista con los números del 1 al 100 que sean múltiplos de 4

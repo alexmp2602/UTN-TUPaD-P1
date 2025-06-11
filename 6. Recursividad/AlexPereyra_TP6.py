@@ -1,5 +1,5 @@
 # TP 6 - Recursividad - UTN a distancia
-# Autor: Alex Pereyra
+# Alumno: Alex Pereyra
 # Comisión: 8
 
 # 1. Factorial recursivo

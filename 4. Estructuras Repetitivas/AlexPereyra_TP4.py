@@ -1,5 +1,5 @@
 # TP 4: Estructuras Repetitivas
-# Autor: Alex Pereyra
+# Alumno: Alex Pereyra
 # Comisión: 8
 
 # Ejercicio 1. Imprimir del 0 al 100 en orden creciente

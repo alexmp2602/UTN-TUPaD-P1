@@ -1,5 +1,5 @@
 # TP 1 - Estructuras Secuenciales
-# Autor: Alex Pereyra
+# Alumno: Alex Pereyra
 # Comisión: 8
 
 # Ejercicio 1: Imprimir "Hola Mundo!"
